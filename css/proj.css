@@ -445,8 +445,9 @@ main{
     text-transform: capitalize;
    
 }
-.woman{
+.links-fild .woman{
     position: relative;
+    color:#0485db;
 }
 .woman::after{
     position: absolute;
@@ -457,7 +458,7 @@ main{
     height: 5px;
     background-color: #166294;
     top: 61px;
-    margin-left: 15px;
+    margin-left: 12px;
 
 }
 .sec3-container{
